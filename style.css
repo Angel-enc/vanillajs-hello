@@ -1,0 +1,21 @@
+body {
+  background-color: darkblue;
+  font-family: sans-serif;
+}
+
+.box {
+  width: 400px;
+  margin: auto;
+  margin-top: 100px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 0 10px gray;
+}
+
+#excuse {
+  font-size: 20px;
+  color: black;
+  margin-top: 15px;
+}
